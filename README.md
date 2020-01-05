@@ -1,29 +1,9 @@
-# vue-form
+# 参考 element-ui 中的 form 组件，进行 vue 组件设计
 
-## Project setup
-```
-npm install
-```
+#### provide inject
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+#### slot 时父子传值 \$parent
 
-### Compiles and minifies for production
-```
-npm run build
-```
+#### 父子组件生命周期
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#### v-model = :value + @input
